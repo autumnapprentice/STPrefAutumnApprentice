@@ -1,0 +1,38 @@
+[
+    {
+        "caption": "M-AT Class Dictionary",
+        "command": "focus_class_dict"
+    },
+    {
+        "caption": "M-AT Focus Tools: Format",
+        "command": "format"
+    },
+    {
+        "caption": "M-AT Focus Tools: Translate",
+        "command": "translate"
+    },
+    {
+        "caption": "M-AT Focus Tools: Translate Folder",
+        "command": "focus_trans_folder"
+    },
+    {
+        "caption": "M-AT Focus Tools: Run",
+        "command": "focus_run"
+    },
+    {
+        "caption": "M-AT Focus Tools: Format Comments",
+        "command": "focus_format_comments"
+    },
+    {
+        "caption": "M-AT Focus Tools: Save, Format, Translate",
+        "command": "safty"
+    },
+    {
+        "caption": "AT Translate",
+        "command": "attranslate"
+    },
+    {
+    	"caption": "SuperDuperMegaUltraAwesomeFocusLink",
+    	"command": "super_link"
+    }
+]
