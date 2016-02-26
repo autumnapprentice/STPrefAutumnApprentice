@@ -5,12 +5,15 @@ import sys
 import re
 
 sys.path.insert(0, os.path.dirname(__file__))
-# https://sites.google.com/a/meditech.com/versioncontrol/npr/npr-eclipse-tools-instructions-64bit-os-x86
-# ObjectEE, MultiEE, FE, ProcEE, Run, Lookup, App, DDEE, MenuEE,
+# https://sites.google.com/a/meditech.com/versioncontrol/npr/
+#       npr-eclipse-tools-instructions-64bit-os-x86
+# ObjectEE, MultiEE, FE, ProcEE, Run, Lookup,
+# App, DDEE, MenuEE,
 # DRWarnEE, DRSegEe, FormalCodeDoc,
 # need separate functions for: sort, delete object code, mergetool
 #  example file path :
-# C:\ProgramData\MEDITECH\MTUNV.Universe\S6.1N.Ring\Michael\PgmSource\HR\IAS.REGION\ee.driver\ee.driver.npr
+# C:\ProgramData\MEDITECH\MTUNV.Universe\S6.1N.Ring\Michael\PgmSource\HR
+#       \IAS.REGION\ee.driver\ee.driver.npr
 
 
 class CsNprFile():
