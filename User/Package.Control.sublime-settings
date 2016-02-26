@@ -1,0 +1,45 @@
+{
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"4GL",
+		"AdvancedNewFile",
+		"AlignTab",
+		"Anaconda",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Djaneiro",
+		"EasyDiff",
+		"File Navigator",
+		"GitGutter",
+		"Jira",
+		"JSHint",
+		"Local History",
+		"Modific",
+		"Origami",
+		"Package Control",
+		"PackageDev",
+		"Preset Command",
+		"Python 3",
+		"Python Unittest Helper",
+		"SideBarEnhancements",
+		"SublimeBlockCursor",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"SVN",
+		"Tortoise",
+		"TortoiseSVN",
+		"Vintage Escape",
+		"VintageLines",
+		"Vintageous",
+		"VintageousOrigami",
+		"xml2json"
+	]
+}

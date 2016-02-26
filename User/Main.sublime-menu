@@ -1,0 +1,100 @@
+[
+{
+        "caption": "Preferences",
+        "mnemonic": "r",
+        "id": "preferences",
+        "children":
+        [
+            { "command": "open_dir", "args": {"dir": "$packages"}, "caption": "Browse Packagesâ€¦", "mnemonic": "B" },
+            { "caption": "-" },
+            { "command": "open_file", "args": {"file": "${packages}/Default/Preferences.sublime-settings"}, "caption": "Settings â€“ Default" },
+            {
+                "command": "open_file", "args":
+                {
+                    "file": "${packages}/User/Preferences.sublime-settings",
+                    "contents": "// Settings in here override those in \"Default/Preferences.sublime-settings\",\n// and are overridden in turn by file type specific settings.\n{\n\t$0\n}\n"
+                },
+                "caption": "Settings â€“ User"
+            },
+            {
+                "caption": "Settings â€“ More",
+                "children":
+                [
+                    { "command": "open_file_settings", "caption": "Syntax Specific â€“ User" },
+                    {
+                        "command": "open_file", "args":
+                        {
+                            "file": "${packages}/User/Distraction Free.sublime-settings",
+                            "contents": "{\n\t$0\n}\n"
+                        },
+                        "caption": "Distraction Free â€“ User"
+                    }
+                ]
+            },
+            { "caption": "-" },
+            {
+                "command": "open_file", "args":
+                {
+                    "file": "${packages}/Default/Default ($platform).sublime-keymap"
+                },
+                "caption": "Key Bindings â€“ Default"
+            },
+            {
+                "command": "open_file", "args":
+                {
+                    "file": "${packages}/User/Default ($platform).sublime-keymap",
+                    "contents": "[\n\t$0\n]\n"
+                },
+                "caption": "Key Bindings â€“ User"
+            },
+            { "caption": "-" },
+            {
+                "caption": "Font",
+                "children":
+                [
+                    { "command": "increase_font_size", "caption": "Larger" },
+                    { "command": "decrease_font_size", "caption": "Smaller" },
+                    { "caption": "-" },
+                    { "command": "reset_font_size", "caption": "Reset" }
+                ]
+            },
+            {
+                "caption": "Color Scheme",
+                "children": [ { "command": "$color_schemes" } ]
+            }
+        ]
+    },
+{
+   "caption": "M-AT",
+   "mnemonic": "M",
+   "id": "mat",
+   "children":
+   [
+            { "command": "format", "caption": "Format", "mnemonic": "F" },
+            { "command": "translate", "caption": "Translate", "mnemonic": "T" },
+            { "command": "focus_run", "caption": "Run", "mnemonic": "R" },
+            { "command": "super_link", "caption": "Super", "mnemonic": "S" },
+            { "command": "focus_kingdom", "caption": "Kingdom", "mnemonic": "K" },
+            { "command": "focus_code_documentation", "caption": "Code Doc", "mnemonic": "C" },
+            { "command": "saved_search", "caption": "Save Search", "mnemonic": "S" },
+            { "command": "beyond_compare", "caption": "Beyond Compare", "mnemonic": "B" }
+        ]
+    },
+    {"caption": "NPR",
+    "mnemonic": "N",
+    "id": "npr",
+    "children":
+    [
+           { "command": "csnprlookup", "caption": "Lookup", "mnemonic": "L" },
+           { "command": "csnprfrontend", "caption": "FrontEnd", "mnemonic": "E" },
+           { "command": "csnprddee", "caption": "Data Def. E/E", "mnemonic": "Da" },
+           { "command": "cs_npr_run", "caption": "Run", "mnemonic": "R" },
+           { "command": "cs_npr_format", "caption": "Format", "mnemonic": "F" },
+           { "command": "cs_npr_translate", "caption": "Translate", "mnemonic": "a" },
+           { "command": "csnprobjectee", "caption": "Object code", "mnemonic": "O" },
+           { "command": "csnprprocee", "caption": "Procedure Edit", "mnemonic": "P" },
+           { "command": "csnprappl", "caption": "Nprappl", "mnemonic": "N" }
+    ]
+
+}
+]
