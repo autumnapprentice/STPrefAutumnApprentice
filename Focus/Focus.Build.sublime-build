@@ -1,0 +1,8 @@
+
+{
+	"cmd": ["TestMmmAlpha.SublimeText.P.mps", "${file}"],
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.focus",
+	"path": "C:/Program Files (x86)/MEDITECH/MTUNV.Universe/S61F.Ring/System",
+	"shell": false
+}

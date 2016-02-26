@@ -1,0 +1,17 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "python -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "C:\\ProgramData\\Meditech\\MTUNV201.Universe\\D2.01F.Ring\\!AllUsers\\Sys\\PgmCache\\Ring\\PgmSource\\Ias"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 500,
+	"bold_folder_labels": true,
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/Dusky MMM.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Consolas",
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"ASP",
+		"EasyDiff",
+		"GoToClass",
+		"Local History",
+		"SublimeBlockCursor",
+		"SublimeLinter-pep8",
+		"SublimePythonIDE",
+		"Tortoise",
+		"Vintage",
+		"VintageousOrigami"
+	],
+	"ignored_words":
+	[
+		"Meditech"
+	],
+	"show_panel_on_build": false,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true
+}

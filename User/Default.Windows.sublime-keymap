@@ -1,0 +1,16 @@
+[
+	{ "keys": ["ctrl+shift+o"], "command": "prompt_add_folder" },
+	{ "keys": ["ctrl+w"], "command": "close" },
+	{ "keys": ["f12"], "command": "save_all" },
+	{ "keys": ["ctrl+b"], "command": "fold_code" },
+             { "keys": ["f5"], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
+	{ "keys": ["f8"], "command": "sort_lines", "args": {"case_sensitive": false} },
+	{ "keys": ["ctrl+f8"], "command": "sort_lines", "args": {"case_sensitive": true} },
+	{ "keys": ["f9"], "command": "fold" },
+	{ "keys": ["ctrl+f9"], "command": "unfold" },
+	{ "keys": ["f7"], "command": "build" },
+	{ "keys": ["shift+f12"], "command": "safty" },
+	{ "keys": ["ctrl+shift+c"], "command": "copy_path_to_clipboard" },
+	{ "keys": ["j", "j"], "command": "_enter_normal_mode", "args": {"mode": "mode_insert"}, "context": [{"key": "vi_insert_mode_aware"}] },
+	{ "keys": ["ctrl+alt+w"], "command": "close_tabs" }
+]

@@ -1,0 +1,38 @@
+[
+{
+    "caption": "csnprlookup",
+        "command": "csnprlookup"
+        },
+{
+    "caption": "csnprfrontend",
+           "command": "csnprfrontend"
+           },
+{
+    "caption": "csnprddee",
+           "command": "csnprddee"
+           },
+{
+    "caption": "csnprrun",
+           "command": "csnprrun"
+           },
+{
+    "caption": "csnprformat",
+           "command": "csnprformat"
+           },
+{
+    "caption": "csnprtranslate",
+           "command": "csnprtranslate"
+           },
+{
+    "caption": "csnprobjectee",
+           "command": "csnprobjectee"
+           },
+{
+    "caption": "csnprprocee",
+           "command": "csnprprocee"
+           },
+{
+    "caption": "csnprappl",
+           "command": "csnprappl"
+   }
+]
