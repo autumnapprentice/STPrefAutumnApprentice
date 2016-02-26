@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+//:Doc Purpose
+//  $1
+//
+//:Doc Arguments
+//  $2
+//
+//:Doc Preconditions
+//:Doc Local Variables
+//  ${3:A = $4}
+//
+//:Doc Data Structures
+//:Doc Side Effects
+//:Doc Returns
+//  ${5:Not Important}
+//
+//:Doc Additional Notes
+//
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>//:</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<scope>source.focus</scope>
+</snippet>

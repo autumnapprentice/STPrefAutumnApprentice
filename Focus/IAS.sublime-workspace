@@ -1,0 +1,1435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"translateone"
+			],
+			[
+				"Fo",
+				"FocusTransFolderCommand"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"work",
+				"workspace"
+			],
+			[
+				"GEt",
+				"GetField	@GetField"
+			],
+			[
+				"LI",
+				"ListRIDs	@ListRIDs"
+			],
+			[
+				"be.",
+				"be.link.name"
+			],
+			[
+				"Be",
+				"BENEFITTEXTLINK"
+			],
+			[
+				"SetC",
+				"SetCurrentOID	@SetCurrentOID"
+			],
+			[
+				"CallStr",
+				"CallStructuredFlush	@CallStructuredFlush"
+			],
+			[
+				"Web",
+				"WebPdfView"
+			],
+			[
+				"GetCu",
+				"GetCurrentOID	@GetCurrentOID"
+			],
+			[
+				"CallS",
+				"CallSub	@CallSub"
+			],
+			[
+				"IasP",
+				"IasProfileEditTables"
+			],
+			[
+				"ExternalWe",
+				"ExternalWebComponent"
+			],
+			[
+				"Payr",
+				"Payroll"
+			],
+			[
+				"Payroll",
+				"PAYROLLBODY"
+			],
+			[
+				"doc",
+				"documentElement"
+			],
+			[
+				"ma",
+				"magicpath"
+			],
+			[
+				"Ch",
+				"CheckPassword"
+			],
+			[
+				"E",
+				"Element"
+			],
+			[
+				"cli",
+				"ClickNew"
+			],
+			[
+				"Click",
+				"ClickReport"
+			],
+			[
+				"Cli",
+				"ClickPrintReport"
+			],
+			[
+				"Top",
+				"TopLevelGridPanel"
+			],
+			[
+				"Com",
+				"ComponentName"
+			],
+			[
+				"Pane",
+				"PanelItem"
+			],
+			[
+				"M",
+				"Mnemonic"
+			],
+			[
+				"Ev",
+				"EventOnSeedChange"
+			],
+			[
+				"Si",
+				"SignUp"
+			],
+			[
+				"train",
+				"TRAININGSTAFFSIGNUP"
+			],
+			[
+				"En",
+				"EntryPoint"
+			],
+			[
+				"TR",
+				"TRAININGDETAILMENU"
+			],
+			[
+				"TRA",
+				"TRAINHEADER"
+			],
+			[
+				"Pro",
+				"PROFILERETURNMENU"
+			],
+			[
+				"PROFILEdem",
+				"PROFILEDEMOCONTACTEDIT"
+			],
+			[
+				"Ias",
+				"IasLogs"
+			],
+			[
+				"Tr",
+				"TRAININSTRUCTIONS"
+			],
+			[
+				"IA",
+				"IasContent"
+			],
+			[
+				"Ini",
+				"InitFrom"
+			],
+			[
+				"Langu",
+				"Languages"
+			],
+			[
+				"Ge",
+				"GetKey"
+			],
+			[
+				"Lan",
+				"LanguageDatabase"
+			],
+			[
+				"input",
+				"input_lines	statement"
+			],
+			[
+				"mn",
+				"mnemonics	statement"
+			],
+			[
+				"Langa",
+				"Languages"
+			],
+			[
+				"Sc",
+				"ScreenOnEntry"
+			],
+			[
+				"Index",
+				"EditLangIndex"
+			],
+			[
+				"Get",
+				"GetAuthDataPath"
+			],
+			[
+				"GE",
+				"GetAuthDataPath"
+			],
+			[
+				"F",
+				"Format"
+			],
+			[
+				"s",
+				"sublimetextpath"
+			],
+			[
+				"Ac",
+				"Active"
+			],
+			[
+				"Ha",
+				"HashIterations"
+			],
+			[
+				"Pu",
+				"PutField"
+			],
+			[
+				"Pag",
+				"PageEntry"
+			],
+			[
+				"Buil",
+				"BuildUserMain"
+			],
+			[
+				"On",
+				"OnMasterEntry"
+			],
+			[
+				"Creat",
+				"CreateRecord"
+			],
+			[
+				"Ele",
+				"Element"
+			],
+			[
+				"El",
+				"ElementSet"
+			],
+			[
+				"Pre",
+				"Preferences"
+			],
+			[
+				"Un",
+				"UnvUserChanged"
+			],
+			[
+				"C",
+				"Component"
+			],
+			[
+				"TE",
+				"TestMain"
+			],
+			[
+				"Element",
+				"ElementSet"
+			],
+			[
+				"UtE",
+				"UtEntry"
+			],
+			[
+				"Call",
+				"CallExternalSub"
+			],
+			[
+				"I",
+				"IasZ"
+			],
+			[
+				"IAs",
+				"IasParam"
+			],
+			[
+				"Up",
+				"UpdateMainRecord"
+			],
+			[
+				"H",
+				"HcisDb"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasAccess.Main.S.focus",
+			"settings":
+			{
+				"buffer_size": 10447,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasPayroll.Events.C.focus",
+			"settings":
+			{
+				"buffer_size": 7623,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Foc/FocSource.Process.Screen.C.focus",
+			"settings":
+			{
+				"buffer_size": 148235,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "FocusTransFolder.py",
+			"settings":
+			{
+				"buffer_size": 788,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Foc/FocZ.TextPadTools.Guts.P.focus",
+			"settings":
+			{
+				"buffer_size": 23058,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "tr",
+		"selected_items":
+		[
+			[
+				"tr",
+				"M-AT Focus Tools: Translate Folder"
+			],
+			[
+				"ru",
+				"M-AT Focus Tools: Run"
+			],
+			[
+				"jir",
+				"SublimeJira: Get issue"
+			],
+			[
+				"run",
+				"M-AT Focus Tools: Run"
+			],
+			[
+				"csnpr",
+				"Set Syntax: MMM CS-NPR"
+			],
+			[
+				"format",
+				"M-AT Format"
+			],
+			[
+				"forma",
+				"M-AT Focus Tools: Format"
+			],
+			[
+				"at",
+				"M-AT Translate"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: Disable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"M-AT Focus Tools: Format"
+			],
+			[
+				"for",
+				"M-AT Focus Tools: Format Comments"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"con",
+				"Configure AT Code Checker"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 259.0,
+		"history":
+		[
+			"print(temp)",
+			"temp = re.split('.Universe', work)",
+			"print(temp)",
+			"temp = re.split('Universe', work)",
+			"print(work)",
+			"work = temp[1][1:]",
+			"print(temp)",
+			"temp = re.split('MEDITECH', head)",
+			"import re",
+			"print(head)",
+			"head = \"C:\\ProgramData\\MEDITECH\\MTUNV.Universe\\S6.1N.Ring\\Michael\\PgmSource\\HR\\IAS.REGION\\ee.driver\\ee.driver.npr\"",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"(("
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias"
+	],
+	"file_history":
+	[
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/Main.sublime-menu",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Focus/FocusTranslate.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Focus/FocusSafty.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Focus/focusbase.py",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Foc/FocZ.TextPadTools.P.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasAccess.Operations.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/FocSource.Process.Screen.C(Server).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/FocSource.Process.Translate.S(Server).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/FocSource.Process.Translate.C(Server).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/FocSource.Process.S(Server).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/FocSource.Process.Launch.P(Server).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/FocSource.Process.ScFunctions.I(Server).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/FocZ.Translate.Remote.P(Server).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/FocZ.Translate.P(Server).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/FocZ.Translate.Remote.C(Server).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/FocSource.Process.TranslateMulti.P(Server).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/FocSource.Process.Translate.P(Server).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasHome.WelcomeTables.WE.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasHome.Welcome.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasPayroll.PayAdvice.WE.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasBenefits.Panels.Dep.WE.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasReq.Events.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasBenefits.Events.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasProfile.TableRids.C.focus",
+		"/F/PROJECTS - unsorted/Pending Projects and Ideas/New folder/Under Orders.txt",
+		"/F/PROJECTS - unsorted/Pending Projects and Ideas/New folder/Note to the editor.txt",
+		"/F/PROJECTS - unsorted/Pending Projects and Ideas/New folder/and.txt",
+		"/F/PROJECTS - unsorted/Pending Projects and Ideas/New folder/another file of stuff.txt",
+		"/F/PROJECTS - unsorted/Pending Projects and Ideas/New folder/marble.txt",
+		"/F/PROJECTS - unsorted/Pending Projects and Ideas/New folder/It was Saturday.txt",
+		"/F/PROJECTS - unsorted/Pending Projects and Ideas/New folder/who.txt",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasProfile.Events.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasAccess.MapPageName.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasAccess.Events.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasAccess.Oper.Update.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasAccess.Main.S.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasHome.Menu.WE.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasAccess.Check.Menu.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasTraining.Events.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.Operations.Npr.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.Events.Get.C.focus",
+		"/c/users/michael/appdata/local/temp/sublime-svn-1455901435/SVN",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasPageDict.Mgmt.S.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasPageDict.Operations.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasPageDict.Events.C.focus",
+		"/C/SVNFocus/Utilities/M-AT Platform.sublime-package",
+		"/C/Users/Michael/Dropbox/Sprint_Current/Requirements for Hancock delivery.txt",
+		"/C/Users/Michael/Dropbox/Checklists/Inbox for Home.txt",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/User/SublimeJira.sublime-settings",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/Jira/README.md",
+		"/C/Users/Michael/Dropbox/Checklists/sprint notes.txt",
+		"/F/Amazon EC2 notes.txt",
+		"/F/kiasportageupgrades.txt",
+		"/C/Users/Michael/workspace/D6.15N HR/Dpms/HR.IAS.ACCESS/Procs/ee.driver/HR.IAS.ACCESS.ee.driver.npr-logic",
+		"/C/Users/Michael/workspace/D6.15N HR/Dpms/HR.IAS.REGION/Procs/init/HR.IAS.REGION.init.npr-logic",
+		"/C/Users/Michael/workspace/D6.15N HR/Dpms/HR.TOOL.BOX/Procs/ias.init.dicts/HR.TOOL.BOX.ias.init.dicts.npr-logic",
+		"/C/Users/Michael/workspace/D6.15N HR/Dpms/HR.EMP/Procs/ias.electronic.forms.view/HR.EMP.ias.electronic.forms.view.npr-logic",
+		"/C/Users/Michael/Dropbox/Sprint_Current/HRP-2455 The server has encountered an error.txt",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasHome.Events.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasUser.Events.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.StndObj.Welcome.C.focus",
+		"/C/Users/Michael/Dropbox/Sprint_Current/HRP-398 and 399 Profile DD edits.txt",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.Mgmt.S.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.StndObj.Benefit.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.StandardObjects.C.focus",
+		"/C/Users/Michael/Dropbox/Sprint_Current/HRP-1217 BE external links table.txt",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.StndObj.Benefit.C.focus.errors.txt",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.StandardObjects.C.focus.errors.txt",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/IasContent.StndObj.Welcome.C(Client).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/View/IasContent.StndObj.Utilities.C(Client).focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.StndObj.Profile.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.StndObj.Utilities.C.focus",
+		"/C/Users/Michael/Dropbox/Sprint_Current/HRP-601 Access Dictionary/Ias Access Dictionary notes.txt",
+		"/C/Users/Michael/Dropbox/Sprint_Current/HRP-601 Access Dictionary/Ias Access Dictionary notes (MMUMFORD's conflicted copy 2016-01-20).txt",
+		"/C/Users/Michael/Dropbox/Sprint_Current/HRP-601 Access Dictionary/access control in Ias.txt",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasProfile.Alias.WE.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasProfile.DemoContactsEdit.WE.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasParam.Operations.C.focus",
+		"/C/Users/Michael/Dropbox/Checklists/action list.txt",
+		"/C/Users/Michael/Dropbox/Projects/MOVE paradigm.txt",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasImageDict.Operations.C.focus",
+		"/C/Users/Michael/workspace/D6.15N HR/Dpms/HR.IAS.ACCESS/Procs/file/HR.IAS.ACCESS.file.npr-logic",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/CSNPR/CsNprBase.py",
+		"/C/Users/Michael/workspace/D6.15N HR/.settings/com.meditech.ide.npr.prefs",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/CSNPR/CsNprRun.py",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasAccess.CreateNew.C.focus",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/CSNPR/CsNprTranslate.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/CSNPR/CsNprFormat.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/CSNPR/CsNprCommands.sublime-commands",
+		"/C/Users/Michael/Dropbox/CsNprRun.py",
+		"/C/Users/Michael/AppData/Roaming/Sublime Text 3/Packages/CSNPR/CsNprSyntax.tmLanguage",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasFields.Value.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasDbLink.Main.S.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasFields.Events.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasParam.Main.S.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasBenefits.Panels.WE.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasHome.Home.WR.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasHome.Header.WE.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Foc/FocObj.Mgmt.S.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasBenefits.Tables.WE.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasBenefits.Operations.Dep.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.Operations.Npr.C.focus.errors.txt",
+		"//localhost/C$/@GMT-2016.01.24-15.52.49/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.Operations.Npr.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasPayroll.Operations.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasHome.Master.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasHome.Header.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.StndObj.Footer.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.Initialize.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasContent.Operations.C.focus",
+		"/C/Users/Michael/Dropbox/Checklists/inbox for work.txt",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasZ.Connections.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasStyle.Mgmt.S.focus",
+		"/C/ProgramData/Meditech/MTUNV615.Universe/D6.15N.Ring/Michael/PgmObject/HR/IAS.PARAM/file",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasDbLink.Main.Edit.E.focus",
+		"/C/Users/Michael/Downloads/Change25.txt",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/T2.0.1F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasProfile.TableRids.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasStyle.Events.C.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasAccess.FileEvent.P.focus",
+		"/F/Archives/Bank statements/PayPal account.txt",
+		"/C/Users/Michael/AppData/Local/Temp/IasZ.Connections.C.focus-revHEAD.svn002.tmp.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasBenefits.DepPanels.WE.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasHome.WelcomeBody.WE.focus",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasPageDict.Initialize.C.focus",
+		"/C/Users/Michael/Dropbox/Sprint_Current/HRP-1674 Autoprocess Electronic Consent.txt",
+		"/C/Users/Michael/Dropbox/Sprint_Current/HRP-1552 Update Direct Deposit and tax button.txt",
+		"/C/Users/Michael/Dropbox/Sprint_Current/HRP-564 BE submit message to be mtdd.txt",
+		"/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasImageDict.Mgmt.S.focus"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\Michael\\AppData\\Roaming\\Sublime Text 3\\Packages\\Python Flake8 Lint",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"|",
+			"ResetMenuButtons",
+			"AskServerOrClient",
+			"Translat",
+			"@BUILD.",
+			"MenuClick",
+			"BENEFITTEXTLINK",
+			"BENEFITMAININSTRUCTIONS",
+			"BENEFITRETURNMENU",
+			",C,",
+			":Code BENEFIT",
+			"IasContent.StandardObjects.C",
+			"       ,{R,\"learnspace\"}@CallExternalSub(Ias,IasContent.StandardObjects.C,LearnMore)\n",
+			"IasContent.StandardObjects.C",
+			",{R,\"learnspace\"}@CallSub(LearnMore)\n       ,{R,\"learnmore\"}@CallSub(LearnMore)",
+			":Code",
+			"TextWithLinebreaks",
+			"ExternalLinks",
+			"@{|0,\".\"}@CA",
+			"O,S,L,D",
+			"O",
+			"IAsUSer",
+			"IasContent.StandardObjects.C",
+			"ExternalSub(Ias,IasContent.StandardObjects.C,",
+			"IasContent",
+			"O}",
+			"{O",
+			"O@",
+			"    //",
+			"@GetCurrentOID(IasAccess)",
+			"IasContent",
+			"IasContent.Header.C",
+			"Menu",
+			"ACCEPTREJECT",
+			"@CallSub(",
+			"RecordList",
+			"    ",
+			"Operations",
+			"EditTable",
+			"@CallSub",
+			"REQUESTBADGEBODY",
+			"__main__",
+			"print",
+			"TRAINBODY",
+			"Template",
+			"Templ",
+			"usertype",
+			"Editor",
+			"TextEditor",
+			"^t",
+			"TCP",
+			"__main__",
+			"fs_function",
+			"BC",
+			"PasswordFormat",
+			"Login IDFormat",
+			"Password",
+			"PhmParam",
+			":Element",
+			"Pw",
+			"SetCustDefRow",
+			"FormatWidth",
+			"EventCreateMain",
+			"SetCustDefDefaults",
+			"EventClickInitialize",
+			"SetCustDefRow",
+			"EventClickPrintReport",
+			"EventEntry",
+			"EventAfterInit",
+			"EventAfterImport",
+			" ",
+			":Code",
+			"HotKey",
+			"EventClickReport",
+			"ViewCdsDisplay",
+			"Ptemp",
+			"EditPageOneHdr",
+			"Panel",
+			":PanelItem",
+			"Panel",
+			"MisSampleA",
+			"IasImageDict.Id.Method",
+			"MisSampleA",
+			"MisSampleA.Id.Method",
+			"TRAININGDETAILSUPINSTRUCTIONS",
+			"TRAININGDETAILINTRUCTIONS",
+			"buttonupdatedirectdepositandtax",
+			"signupstaff",
+			"buttonreturntorequests",
+			"requests",
+			"jobshomepage",
+			"buttonreturntojobslist",
+			":EntryPoint                       ",
+			"title",
+			"IasHome",
+			"IasPage",
+			"  @CallExternalSub(Ias,IasPage.GetEvent.C,GotoMessage);",
+			"Srp",
+			"IasImages",
+			"PageButtons",
+			"Srp",
+			"BgWhite",
+			"TRAININGSTAFFSIGNUPMENU",
+			"TRAININGDETAILSUPMENU",
+			"TRAININGSTAFFSIGNUP",
+			"TRAININGDETAILSUPREM",
+			"payrollcurrent",
+			"requests",
+			":EntryPoint                          ",
+			"Code ",
+			"Code",
+			"ADD",
+			"add",
+			"TRAININGDETAILFOOTERADDME",
+			"SUBMITFOOTER",
+			"TRAINDETAILINSTRUCTIONS",
+			"TRAININSTRUCTIONS",
+			"TRAININGDETAILMENU",
+			"REQUESTRETURNMENU",
+			",\"\",\"\"",
+			"},",
+			",\"\",\"\"",
+			"TRAININGDETAILSUPERVISOR",
+			",\"\",\"\"",
+			"\"\",\"\"",
+			"TRAININGDETAILREMOVE",
+			"TRAININGDETAIL",
+			"TRAININGDETAILSUPERVISOR"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"IasAccess",
+			"IasParam",
+			"MisCntry",
+			"IasImageDict",
+			"IasHome",
+			"Ias",
+			"IasImageDict",
+			"Ias",
+			"CurrentFields",
+			"Ias",
+			"OPENINGDETAILEXT",
+			"Ias",
+			"Jessica",
+			"Michael",
+			"Ias",
+			"IasImageDict",
+			"IasZ",
+			"Ias",
+			".ias."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasAccess.Main.S.focus",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4952,
+								4952
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bs_sintax": "focus.tmlanguage",
+							"buffer_scroll_name": "96c205fe",
+							"line_numbers": false,
+							"spell_check": false,
+							"syntax": "Packages/M-AT Platform/Language/Focus/Focus.tmlanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 161,
+							"vintage_lines.lines": 342,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3551.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Ias/IasPayroll.Events.C.focus",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4443,
+								4443
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bs_sintax": "focus.tmlanguage",
+							"buffer_scroll_name": "25dffb13",
+							"line_numbers": false,
+							"spell_check": false,
+							"syntax": "Packages/M-AT Platform/Language/Focus/Focus.tmlanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 13
+							},
+							"vintage_lines.line": 136,
+							"vintage_lines.lines": 236,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3055.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Foc/FocSource.Process.Screen.C.focus",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148235,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										135914,
+										135914
+									],
+									[
+										145840,
+										145840
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								135989,
+								135989
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bs_sintax": "focus.tmlanguage",
+							"buffer_scroll_name": "f3c68364",
+							"highlight_line": true,
+							"line_numbers": false,
+							"spell_check": false,
+							"syntax": "Packages/M-AT Platform/Language/Focus/Focus.tmlanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 28
+							},
+							"vintage_lines.line": 4166,
+							"vintage_lines.lines": 4545,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 95459.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "FocusTransFolder.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bs_sintax": "python django",
+							"buffer_scroll_name": "25ba2102",
+							"line_numbers": false,
+							"spell_check": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 37
+							},
+							"vintage_lines.line": 7,
+							"vintage_lines.lines": 27,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 138.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/ProgramData/Meditech/MTUNV201.Universe/D2.01F.Ring/!AllUsers/Sys/PgmCache/Ring/PgmSource/Foc/FocZ.TextPadTools.Guts.P.focus",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13503,
+								13503
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bs_sintax": "focus.tmlanguage",
+							"buffer_scroll_name": "cd39604a",
+							"line_numbers": false,
+							"spell_check": false,
+							"syntax": "Packages/M-AT Platform/Language/Focus/Focus.tmlanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 37
+							},
+							"vintage_lines.line": 396,
+							"vintage_lines.lines": 646,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8763.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "IAS.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "cmd",
+		"_vintageous_last_buffer_search_command": "vi_octothorp",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "C:\\Users\\Michael\\AppData\\Roaming\\Sublime Text 3\\Packages\\Focus"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
