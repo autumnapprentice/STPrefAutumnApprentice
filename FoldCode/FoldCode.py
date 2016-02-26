@@ -22,7 +22,7 @@ class FoldCodeCommand(sublime_plugin.TextCommand):
                 new_region_list.append(n)
             start = x.b
 
-        # build the last region
+        # build the last region, end of file is end point
         z = view.size()
         n = sublime.Region(start, z)
         new_region_list.append(n)
